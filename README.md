@@ -25,5 +25,4 @@ By using or contributing to this repository you agree to the following:
 
 ---
 
-## Repository Structure (example)
 
