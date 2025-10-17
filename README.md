@@ -3,7 +3,8 @@
 > **Important:** This repository contains tools, scripts, and research notes related to password security and auditing. **For educational, research, and authorized testing only.** Do **not** use these tools on systems you do not own or do not have explicit written permission to test.
 
 ---
-
+No warranty.
+Use at your own risk.
 ## About
 
 This repository is a curated collection of password-security research artifacts, proof-of-concept code, and notes intended to support:
